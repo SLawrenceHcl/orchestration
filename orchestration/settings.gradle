@@ -1,0 +1,8 @@
+rootProject.name = 'orchestration'
+include 'paymentService'
+include 'orderService'
+include 'orchestrationService'
+include 'inventoryService'
+include 'inventoryService'
+include 'common'
+
